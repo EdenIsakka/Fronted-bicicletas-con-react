@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.div_container {
+
+  text-decoration-color: black;
+  font-weight: bold;
+
+
+
+}
+
+.App {
+  text-align: center;
+  background-color:rgb(255, 255, 255);
+min-height: 100vh
+;}
+
+.cards_style{
+  margin: 80px;
+  background-color:darkgray;
+  background-position: center;
+  
+}
+
+.card-body{
+  border: 2px solid;
+}
+
+
