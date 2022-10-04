@@ -1,6 +1,8 @@
 
 import './App.css';
 import Companys from './components/company';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 function App() {
